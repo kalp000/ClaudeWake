@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Launcher icon backgrounds, one per selectable theme. -->
+    <color name="ic_bg_dark">#000000</color>
+    <color name="ic_bg_light">#FFFFFF</color>
+    <color name="ic_bg_mono">#101010</color>
+</resources>

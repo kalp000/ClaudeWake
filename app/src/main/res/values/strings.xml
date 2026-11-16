@@ -1,0 +1,3 @@
+<resources>
+    <string name="a11y_desc">Reads the usage-limit reset time shown in the Claude app and, once the limit ends, opens the latest chat and sends your saved message. Also reads the position of the lock-screen pattern dots when you ask it to capture your grid.</string>
+</resources>
